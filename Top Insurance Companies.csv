@@ -1,0 +1,524 @@
+Company Name,CEO,World Rank,Stock Type,Annual Revenue (In Million USD),Number of Employees,Website
+BERKSHIRE HATHAWAY,Warren Buffett,8,S&P 500,354640,372000,https://www.berkshirehathaway.com/
+UNITEDHEALTH GROUP,Andrew Witty,16,Dow Jones Index (DJIA),285270,350000,https://www.unitedhealthgroup.com/
+BANK OF AMERICA CORPORATION,Brian Moynihan,19,S&P 500,89110,208000,https://www.bankofamerica.com/
+WELLS FARGO & COMPANY,Charles W. Scharf,56,S&P 500,78492,253871,https://www.wellsfargo.com/
+ROYAL BANK OF CANADA,David I. McKay,84,TSX 60,35376,85301,https://www.rbcroyalbank.com
+PING AN INSURANCE (GROUP) COMPANY OF CHINA,Ma Mingzhe,88,,202290,362000,http://www.pingan.com/
+TORONTO-DOMINION BANK,Bharat Masrani,90,TSX 60,32756,89464,https://www.td.com
+CVS HEALTH CORPORATION,Karen S. Lynch,99,S&P 500,292110,295000,https://cvshealth.com/
+BANK OF CHINA,Gao Yingxin,102,,76991,306322,https://www.boc.cn/en/
+HSBC HOLDINGS,Noel Quinn,108,FTSE 100,63644,223448,https://www.hsbc.com/
+AIA GROUP,Lee Yuan Siong,119,,47525,23000,http://www.aia.com/
+CHINA LIFE INSURANCE COMPANY,Dairen Lin,133,,133170,104160,https://www.chinalife.com.cn
+ANTHEM,Gail Koziara Boudreaux,143,S&P 500,,63900,https://www.antheminc.com/
+ALLIANZ SE,Oliver Bate,148,S&P EUROPE 350,114040,150269,https://www.allianz.com
+TRUIST FINANCIAL CORPORATION,William H. “Bill” Rogers Jr,187,S&P 500,22259,52641,https://www.bbt.com/
+CHUBB,Evan G. Greenberg,189,S&P 500,40963,31000,https://www.chubb.com/
+SBERBANK OF RUSSIA,Herman Gref,197,,0,285555,https://www.sberbank.ru/
+MARSH & MCLENNAN COMPANIES,Daniel S. Glaser,200,S&P 500,19820,81000,https://www.mmc.com/
+LIFE INSURANCE CORPORATION OF INDIA,,207,,85803,114000,https://licindia.in
+CIGNA CORPORATION,David Cordani,217,S&P 500,174270,73800,https://www.cigna.com/
+AXA,Thomas Buberl,226,CAC 40,111660,96595,https://www.axa.com/
+ZURICH INSURANCE GROUP AG,Mario Greco,259,S&P EUROPE 350,65801,52930,https://www.zurich.com/
+CAPITAL ONE FINANCIAL CORPORATION,Richard Fairbank,272,S&P 500,,50800,https://www.capitalone.com/
+PROGRESSIVE CORPORATION,Tricia Griffith,281,S&P 500,47676,49000,https://www.progressive.com/
+HDFC,Sashidhar Jagdishan,291,S&P BSE FINANCE,12743,3226,https://www.hdfc.com/
+AON,Gregory C. Case,292,S&P 500,12193,50000,https://www.aon.com
+BAJAJ FINANCE,Sanjiv Bajaj,294,S&P BSE FINANCE,2522,26969,https://www.bajajfinserv.in/
+BANCO SANTANDER,Jose Antonio Alvarez,296,S&P EUROPE 350,0,191189,https://www.santander.com/
+STATE BANK OF INDIA,Vinay M Tonse,310,S&P BSE BANKEX,27958,245642,https://www.onlinesbi.com/
+METLIFE,Michel A. Khalaf,322,S&P 500,71080,43000,https://www.metlife.com/
+QATAR NATIONAL BANK,Abdulla Mubarak Al-Khalifa,371,,7632,28000,https://www.qnb.com
+AMERICAN INTERNATIONAL GROUP (AIG),Peter Zaffino,384,S&P 500,52057,36600,https://www.aig.com/
+PRUDENTIAL,Charles F. Lowrey,391,FTSE 100,26500,18687,https://www.prudential.com/
+HUMANA,Bruce D. Broussard,414,S&P 500,83064,95500,https://www.humana.com
+CENTENE CORPORATION,Michael F. Neidorff,445,S&P 500,125980,72500,https://www.centene.com/
+JARDINE MATHESON HOLDINGS,Benjamin William Keswick,446,,35862,403000,https://www.jardines.com
+PRUDENTIAL FINANCIAL,Charles F. Lowrey,459,S&P 500,70934,40916,https://www.prudential.com/
+JARDINE STRATEGIC HOLDINGS,David Hsu,460,,38545,464000,https://www.jardines.com/
+MUNCHENER RUCKVERSICHERUNGS-GESELLSCHAFT,Joachim Wenning,463,S&P EUROPE 350,76540,39642,https://www.munichre.com/
+BANCO BILBAO VIZCAYA ARGENTARIA,Onur Genc,482,S&P EUROPE 350,0,110432,https://www.bbva.es
+AFLAC,Dan Amos,490,S&P 500,22106,12447,https://www.aflac.com/
+TOKIO MARINE HOLDINGS,Satoru Komiya,496,NIKKEI 225,41970,41101,https://www.tokiomarinehd.com/en/
+THE TRAVELERS COMPANIES,Alan D. Schnitzer,497,Dow Jones Index (DJIA),34818,30800,https://www.travelers.com/
+MANULIFE FINANCIAL CORPORATION,Roy Gori,517,TSX 60,44676,37000,https://www.manulife.com/
+CHINA PACIFIC INSURANCE GROUP (CPIC),Kong Qingwei,529,,68415,111247,http://www.cpic.com.cn
+BAJAJ FINSERV,Sanjiv Bajaj,541,Nifty 50 Index,8447,26969,https://www.bajajfinserv.in/
+NATWEST GROUP,Alison Rose,545,FTSE 100,0,59900,https://www.natwestgroup.com/
+ALLSTATE CORPORATION,Thomas J. Wilson,573,S&P 500,50588,54700,https://www.allstate.com
+UNICREDIT,Andrea Orcel,580,S&P EUROPE 350,18591,90836,https://www.unicredit.it/
+AMERIPRISE FINANCIAL,James Cracchiolo,581,S&P 500,13443,12000,https://www.ameriprise.com/
+BANCO BRADESCO,Octavio de Lazari Junior,599,,20076,89575,https://banco.bradesco
+ARTHUR J. GALLAGHER,J. Patrick Gallagher Jr,607,S&P 500,8209,39000,https://www.ajg.com/
+ASSICURAZIONI GENERALI,Philippe Donnet,625,S&P EUROPE 350,92763,72644,https://www.generali.com/
+SUN LIFE FINANCIAL,Dean A. Connor,634,TSX 60,29933,24589,https://www.sunlife.com/
+FUBON FINANCIAL HOLDING,Ming Chung Daniel,648,Taiwan ADRs,16013,45174,https://www.fubon.com
+AXIS BANK,Amitabh Chaudhry,702,S&P BSE BANKEX,6400,78300,https://www.axisbank.com/
+SWISS RE,Christian Mumenthaler,710,S&P EUROPE 350,46001,13189,https://www.swissre.com/
+CATHAY FINANCIAL HOLDING,,711,Taiwan ADRs,20549,57848,https://www.cathayholdings.com
+PICC GROUP (PEOPLE'S INSURANCE COMPANY (GROUP) OF CHINA),Jianjun Zhang,715,,93588,198951,http://www.picc.com/
+WILLIS TOWERS WATSON PUBLIC COMPANY,Carl Hess,725,S&P 500,8998,46600,https://www.willistowerswatson.com/en
+GREAT-WEST LIFECO,Paul A. Mahon,735,,51391,24500,https://www.greatwestlifeco.com/
+SAMPO OYJ,Torbjorn Magnusson,744,S&P EUROPE 350,14823,9813,https://www.sampo.com/
+ORIX CORPORATION,Makoto Inoue,832,,11494,33153,https://www.orix.co.jp
+LEGAL & GENERAL GROUP,Nigel Wilson,842,FTSE 100,58239,13876,https://www.legalandgeneralgroup.com/
+HARTFORD FINANCIAL SERVICES GROUP,Christopher J. Swift,856,S&P 500,22390,18500,https://www.thehartford.com/
+DAI-ICHI LIFE HOLDINGS,,881,NIKKEI 225,57341,736,https://www.dai-ichi-life-hd.com/en/
+HANNOVER RUCK SE,,884,S&P EUROPE 350,28844,3073,https://www.hannover-re.com/
+INTACT FINANCIAL CORPORATION,Charles Brindamour,912,,13549,16000,http://www.intactcf.com/
+POWER CORPORATION OF CANADA,,926,TSX 60,55565,29900,http://www.powercorporation.com/
+AVIVA,Amanda Blanc,945,FTSE 100,43116,31700,https://www.aviva.com/
+BANCO SANTANDER BRASIL SA,Sergio Rial,"1,025",,9550,44599,https://www.santander.com.br
+PRINCIPAL FINANCIAL GROUP,Daniel Joseph Houston,"1,027",S&P 500,14262,7100,https://www.principal.com/
+PICC PROPERTY AND CASUALTY COMPANY,,"1,041",,60812,,http://www.epicc.com.cn/
+SWISS LIFE HOLDING AG,Patrick Frost,"1,044",S&P EUROPE 350,22872,9823,https://www.swisslife.com
+BROWN & BROWN,J Powell Brown,"1,069",S&P 500,3047,12023,https://www.bbinsurance.com/
+CINCINNATI FINANCIAL CORPORATION,Steven J. Johnston,"1,078",S&P 500,9630,5166,https://www.cinfin.com/
+CTBC FINANCIAL HOLDING,Noor Menai,"1,110",,6960,20668,http://www.ctbcholding.com
+MS&AD INSURANCE GROUP HOLDINGS,Noriyuki Hara,"1,131",NIKKEI 225,36532,423,https://www.ms-ad-hd.com
+POWER FINANCIAL CORPORATION,,"1,136",,37859,484,https://www.powerfinancial.com/en/
+HDFC LIFE INSURANCE COMPANY,Vibha Padalkar,"1,150",Nifty 50 Index,8442,14587,https://www.hdfclife.com/
+MEGA FINANCIAL HOLDING,,"1,152",,2001,9669,https://www.emega.com.tw/
+ARCH CAPITAL GROUP,Marc Grandisson,"1,171",,8883,4500,https://www.archcapgroup.com/
+MARKEL CORPORATION,Thomas S. Gayner,"1,187",,12846,20300,http://www.markelcorp.com/
+NN GROUP,David Knibbe,"1,189",S&P EUROPE 350,25930,15417,https://www.nngroup.com/
+POSTE ITALIANE SPA,Matteo Del Fante,"1,190",,31629,118523,https://www.poste.it/
+CNP ASSURANCES SA,Stephane Dedeyan,"1,195",EURONEXT 100,48298,5353,http://www.cnp.fr/en/
+MOLINA HEALTHCARE,Joseph M. Zubretsky,"1,199",S&P 500,27771,14000,https://www.molinahealthcare.com
+SHINHAN FINANCIAL GROUP,Cho Yong-byoung,"1,236",South Korea ADRs,16348,172,http://www.shinhangroup.com
+TRYG A/S,Morten Hubbe,"1,239",,3691,4000,https://www.tryg.com/
+SBI LIFE INSURANCE COMPANY,Mahesh Kumar Sharma,"1,245",Nifty 50 Index,10378,17466,https://www.sbilife.co.in/
+ATHENE HOLDING,James Belardi,"1,270",,26325,1350,https://www.athene.com/
+NEW CHINA LIFE INSURANCE COMPANY,,"1,274",,34923,36309,https://www.newchinalife.com/
+GRASIM INDUSTRIES,Jayant V Dhobley,"1,277",Nifty 50 Index,11840,24123,http://www.grasim.com/
+LOEWS CORPORATION,James S. Tisch,"1,313",S&P 500,11738,10340,https://loews.com/
+SOMPO HOLDINGS,Satoshi KASAI,"1,320",NIKKEI 225,30137,323,https://www.sompo-hd.com/en
+FIDELITY NATIONAL FINANCIAL,Raymond R Quirk,"1,334",,15054,27058,https://www.fnf.com/
+BANK OF BEIJING,,"1,349",,9720,14975,http://www.bankofbeijing.com.cn/
+W. R. BERKLEY CORPORATION,William R. Berkley,"1,357",S&P 500,9481,7681,https://www.berkley.com/
+AXA EQUITABLE HOLDINGS,Mark Pearson,"1,404",,15499,96595,https://equitableholdings.com/
+FAIRFAX FINANCIAL HOLDINGS,Prem Watsa,"1,497",,24126,41044,https://www.fairfax.ca/
+LINCOLN NATIONAL CORPORATION,Dennis R. Glass,"1,504",S&P 500,19230,10848,https://www.lfg.com
+QBE INSURANCE GROUP,,"1,533",ASX 100,17261,11697,https://www.qbe.com/
+CNA FINANCIAL CORPORATION,,"1,556",,11908,5600,https://www.cna.com
+ADMIRAL GROUP,,"1,569",FTSE 100,2029,11445,https://admiralgroup.co.uk/
+TALANX AG,,"1,583",,43116,23527,https://www.talanx.com
+ST. JAMES'S PLACE,,"1,598",FTSE 100,23498,2014,https://www.sjp.co.uk/
+GJENSIDIGE FORSIKRING ASA,,"1,609",,3661,3700,https://www.gjensidige.no
+FIRST FINANCIAL HOLDING,,"1,641",,2079,9884,http://ir.firstholding.com.tw
+AMERICAN FINANCIAL GROUP,,"1,649",,6548,6600,https://ir.afginc.com
+YUANTA FINANCIAL HOLDING CO. LTD,,"1,699",,3964,14276,https://www.yuanta.com
+ICICI PRUDENTIAL LIFE INSURANCE COMPANY,,"1,708",BSE-100 Index,7747,14099,https://www.iciciprulife.com/
+AEGON,,"1,720",EURONEXT 100,46124,22322,https://www.aegon.com
+EVEREST RE GROUP,,"1,744",S&P 500,11866,1746,https://www.everestre.com/
+CREDICORP,,"1,786",,3753,36806,https://credicorp.gcs-web.com/
+AGEAS SA/NV,,"1,801",EURONEXT 100,13033,10045,https://www.ageas.com/
+CNPC CAPITAL COMPANY,,"1,803",,5259,4361,https://www.cnpccapital.cn/
+SUNCORP GROUP,,"1,805",ASX 100,7740,13500,https://www.suncorpgroup.com.au/
+HUA NAN FINANCIAL HOLDINGS,,"1,837",,1701,10717,http://www.hnfhc.com.tw
+ERIE INDEMNITY COMPANY,,"1,857",,2669,5876,https://www.erieinsurance.com
+GLOBE LIFE,,"1,858",S&P 500,5112,3222,https://www.globelifeinsurance.com/
+SAMSUNG LIFE INSURANCE,,"1,909",,24024,5273,http://www.samsunglife.com/
+CHINA DEVELOPMENT FINANCIAL HOLDING CORPORATION,,"1,976",,6113,12821,https://www.cdibh.com
+ALLEGHANY CORPORATION,,"2,004",,11914,13313,https://www.alleghany.com
+PHOENIX GROUP HOLDINGS,,"2,026",FTSE 100,32010,5752,https://www.thephoenixgroup.com/
+ASSURANT,,"2,037",S&P 500,10187,15600,https://www.assurant.com/
+FOSUN INTERNATIONAL,,"2,050",,25316,,http://ir.fosun.com
+ICICI LOMBARD GENERAL INSURANCE COMPANY,,"2,084",S&P BSE FINANCE,2073,10197,https://www.icicilombard.com/
+FIRST AMERICAN FINANCIAL CORPORATION,,"2,137",,9221,19597,https://www.firstam.com
+SDIC CAPITAL,,"2,190",,3107,6447,http://www.sdiccapital.com
+T&D HOLDINGS,,"2,212",NIKKEI 225,12420,12229,https://www.td-holdings.co.jp/en/
+VOYA FINANCIAL,,"2,234",,4230,6000,https://www.voya.com/
+SANLAM,,"2,235",,13690,20920,https://www.sanlam.co.za
+UNIPOLSAI ASSICURAZIONI,,"2,236",,16253,,http://www.unipolsai.com/
+INSURANCE AUSTRALIA GROUP,,"2,277",ASX 100,6147,13500,https://www.iag.com.au/
+REINSURANCE GROUP OF AMERICA,,"2,288",,16658,3500,https://www.rgare.com/
+OLD REPUBLIC INTERNATIONAL CORPORATION,,"2,292",,8590,9600,http://www.oldrepublic.com/
+BALOISE HOLDING AG,,"2,298",S&P EUROPE 350,9381,,https://www.baloise.com/
+RENAISSANCERE HOLDINGS,,"2,330",,5308,604,https://www.renre.com/
+SAMSUNG FIRE & MARINE INSURANCE,,"2,388",,16139,5818,https://www.samsungfire.com/
+BANCA MEDIOLANUM,,"2,409",,7067,2321,https://www.bmedonline.it
+MEDIBANK PRIVATE,,"2,486",ASX 100,4910,3982,https://www.medibank.com.au/
+GREAT EASTERN HOLDINGS,,"2,493",,14605,4227,https://www.greateasternlife.com/
+BB SEGURIDADE PARTICIPACOES,,"2,511",,1165,,http://www.bbseguridaderi.com.br/
+JAPAN POST INSURANCE,,"2,527",,25421,245472,https://www.jp-life.japanpost.jp/english/
+ONEMAIN HOLDINGS,,"2,543",,4973,8800,http://investor.onemainfinancial.com/
+HELVETIA HOLDING AG,,"2,636",,12977,11687,https://www.helvetia.com
+IA FINANCIAL CORPORATION,,"2,637",,13265,7600,https://ia.ca
+MAPFRE,,"2,644",,22727,33730,https://www.mapfre.es
+ASR NEDERLAND,,"2,659",,10866,3934,https://www.asrnederland.nl/
+NOTRE DAME INTERMEDICA PARTICIPACOES,,"2,708",,2135,,https://www.gndi.com.br/
+PRIMERICA,,"2,799",,2709,2891,http://www.primerica.com
+DISCOVERY LIMITED,,"2,803",,5041,12980,https://www.discovery.co.za/
+STAR HEALTH AND ALLIED INSURANCE COMPANY LIMITED,,"2,862",,1325,,https://www.starhealth.in/
+NEDBANK GROUP,,"2,919",,3277,28324,https://www.nedbank.co.za/
+SCOR SE,,"2,928",EURONEXT 100,19625,2945,https://www.scor.com/en
+UNUM GROUP,,"2,965",,11853,10300,https://www.unum.com/
+SHIN KONG FINANCIAL HOLDING,,"3,032",,14402,17255,http://www.shinkonggroup.com/en/sk_financial.html
+ZHONGAN ONLINE P & C INSURANCE,,"3,093",,3444,3033,https://www.zhongan.com/
+MGIC INVESTMENT CORPORATION,,"3,129",,1185,724,https://www.mgic.com/
+ESSENT GROUP,,"3,145",,1028,381,http://www.essentgroup.com
+DIRECT LINE INSURANCE GROUP,,"3,152",S&P EUROPE 350,4285,10762,https://www.directlinegroup.co.uk/
+PT SINAR MAS MULTIARTHA TBK,,"3,160",,2456,7354,http://www.smma.co.id/
+CHINA TAIPING INSURANCE HOLDINGS COMPANY,,"3,179",,39444,65957,http://en.cntaiping.com/
+POWSZECHNY ZAKLAD UBEZPIECZEN SA,,"3,196",,,43310,https://www.pzu.pl/
+TOPDANMARK A/S,,"3,204",,4653,,https://www.topdanmark.dk/
+RLI Corp,,"3,238",,1179,913,https://www.rlicorp.com
+KINSALE CAPITAL GROUP,,"3,239",,639,375,https://www.kinsalecapitalgroup.com/
+AMERICAN NATIONAL INSURANCE COMPANY,,"3,246",,,4600,https://www.americannational.com
+BANCO DE CREDITO E INVERSIONES,,"3,268",,2374,10560,https://www.bci.cl/
+STOREBRAND ASA,,"3,315",,13218,2200,https://www.storebrand.no/en/
+HANOVER INSURANCE GROUP,,"3,364",,5109,4400,https://www.hanover.com/
+ENSTAR GROUP,,"3,391",,654,1189,https://www.enstargroup.com/
+SELECTIVE INSURANCE GROUP,,"3,401",,3368,2440,https://www.selective.com/
+AXIS CAPITAL HOLDINGS,,"3,450",,5321,1921,https://www.axiscapital.com/
+ROOT INSURANCE,,"3,527",,345,901,https://www.joinroot.com/
+BRIGHTHOUSE FINANCIAL,,"3,567",,7142,1500,https://www.brighthousefinancial.com/
+NATIONAL GENERAL HOLDINGS,,"3,582",,,9200,http://ir.nationalgeneral.com
+RAND MERCHANT INVESTMENT HOLDINGS,,"3,589",,1129,,https://rmih.co.za/
+REMGRO,,"3,594",,3939,,https://remgro.com/
+TRUPANION,,"3,624",,698,1131,https://trupanion.com/
+HISCOX LTD,,"3,636",,3287,,https://www.hiscoxgroup.com/
+GOOSEHEAD INSURANCE,,"3,741",,151,1290,https://www.gooseheadinsurance.com/
+CHINA REINSURANCE (GROUP) CORPORATION,,"3,745",,23955,66175,http://eng.chinare.com.cn/
+BUPA ARABIA FOR COOPERATIVE INSURANCE COMPANY,,"3,765",,2901,,https://bupa.com.sa/en
+OLD MUTUAL LIMITED,,"3,805",,14656,29830,https://www.oldmutual.com/
+GRUPO CATALANA OCCIDENTE,,"3,814",,4602,7587,https://www.grupocatalanaoccidente.com/
+"RYAN SPECIALTY GROUP HOLDINGS, INC.",,"3,857",,1018,669,https://ryansg.com/
+RADIAN GROUP,,"3,861",,1329,1800,https://www.radian.biz
+BEAZLEY,,"3,889",,3291,,https://www.beazley.com/
+KEMPER CORPORATION,,"3,892",,5689,10300,https://www.kemper.com/
+UNIPOL GRUPPO,,"3,932",,16280,11836,http://www.unipol.it/
+OSCAR HEALTH,,"3,958",,1920,2621,https://www.hioscar.com/
+VIENNA INSURANCE GROUP AG,,"4,032",,10974,25000,https://www.vig.com/
+AMERICAN EQUITY INVESTMENT LIFE HOLDING COMPANY,,"4,062",,3689,,https://www.american-equity.com
+ASSURED GUARANTY,,"4,083",,698,412,https://assuredguaranty.com/
+BRP GROUP,,"4,097",,567,650,https://baldwinriskpartners.com/
+MAX FINANCIAL SERVICES,,"4,121",S&P BSE FINANCE,2880,,https://www.maxfinancialservices.com/
+STEADFAST GROUP,,"4,141",,667,,https://www.steadfast.com.au/
+MERITZ FIRE & MARINE INSURANCE,,"4,202",,7833,,https://www.meritzfire.com/
+"ENACT HOLDINGS, INC.",,"4,239",,1117,500,
+SUNDARAM FINANCE,,"4,326",,665,4213,https://www.sundaramfinance.in/
+SAGEN MI CANADA,,"4,348",,754,,https://www.sagen.ca/
+HYPOPORT AG,,"4,398",,446,2049,https://www.hypoport.com/
+AMTRUST FINANCIAL SERVICES,,"4,412",,5816,5329,https://amtrustfinancial.com/
+CORVEL CORPORATION,,"4,453",,552,3681,https://www.corvel.com/
+GENERAL INSURANCE CORPORATION OF INDIA,,"4,521",S&P BSE FINANCE,6121,567,https://www.gicofindia.com/en/
+INTERCORP FINANCIAL SERVICES,,"4,610",,1548,6856,https://www.ifs.com.pe/
+FGL HOLDINGS,Chris Blunt,"4,616",,,,https://fglife.bm
+CHALLENGER LIMITED,,"4,624",ASX 100,2058,735,https://challenger.com.au/
+PHOENIX HOLDINGS LTD,,"4,629",,8660,1249,https://www.thephoenixgroup.com/
+CNO FINANCIAL GROUP,,"4,682",,4100,3350,https://www.cnoinc.com
+NH INVESTMENT & SECURITIES,,"4,697",,1696,,https://www.nhis.gov.ng/
+MERCURY GENERAL CORPORATION,,"4,708",,3993,4300,https://www.mercuryinsurance.com
+WHITE MOUNTAINS INSURANCE GROUP,,"4,715",,944,1648,https://www.whitemountains.com
+NEW INDIA ASSURANCE COMPANY,,"4,789",S&P BSE FINANCE,4206,17330,https://www.newindia.co.in/portal/
+DB INSURANCE,,"4,802",,14349,4691,https://www.idbins.com
+COFCO CAPITAL HOLDINGS,,"4,827",,495,,http://www.cofco.com/en/
+NIPPON LIFE INDIA ASSET MANAGEMENT,,"4,905",S&P BSE FINANCE,139,1043,https://www.nipponindiamf.com/
+UNIQA INSURANCE GROUP AG,,"4,981",,6711,,https://www.uniqagroup.com/
+SIRIUS INTERNATIONAL INSURANCE GROUP,,"4,988",,,,https://www.siriusgroup.com/
+ALM. BRAND A/S,,"5,010",,781,1725,https://www.almbrand.dk/
+CHINA REFORM HEALTH MANAGEMENT AND SERVICES GROUP,,"5,172",,,,http://www.crhms.cn/
+E-L FINANCIAL CORPORATION,,"5,253",,2032,870,https://www.empire.ca/
+ORANGE LIFE INSURANCE,,"5,263",,,,https://www.orangelife.co.kr/eng/
+COMPANY FOR COOPERATIVE INSURANCE,,"5,338",,1963,,https://www.tawuniya.com.sa/
+MULTIPLAN CORPORATION,,"5,390",,1117,,https://www.multiplan.us/
+HAREL INSURANCE INVESTMENTS & FINANCIAL SERVICES LTD,,"5,457",,5804,,https://www.harel-group.co.il/
+MAGELLAN HEALTH,,"5,480",,4577,10500,https://www.magellanhealth.com/
+NIB HOLDINGS,,"5,628",ASX 100,1930,,https://www.nib.com.au/
+QATAR INSURANCE COMPANY Q.S.P.C,,"5,708",,2684,,https://www.qatarinsurance.com/
+STATE AUTO FINANCIAL CORPORATION,,"5,745",,1482,,https://www.stateauto.com/
+LEMONADE,,"5,753",,128,1119,https://www.lemonade.com/
+AMP,,"5,810",ASX 100,2277,5600,https://www.amp.com.au/business
+BANGKOK LIFE ASSURANCE PUBLIC COMPANY,,"5,841",,1320,,https://www.bangkoklife.com/
+PORTO SEGURO,,"5,918",,4398,,https://www.portoseguro.com.br/
+HASTINGS GROUP HOLDINGS,,"5,960",,,,https://www.hastingsplc.com/
+GENWORTH FINANCIAL,,"5,977",,7833,2500,http://www.genworth.in
+QUALITAS CONTROLADORA,,"6,027",,2001,,https://www.qualitas.com.mx
+STEWART INFORMATION SERVICES CORPORATION,,"6,129",,3305,7300,https://www.stewart.com
+NMI HOLDINGS,,"6,200",,485,321,https://www.nationalmi.com/
+ARGO GROUP INTERNATIONAL HOLDINGS,,"6,202",,1879,,https://www.argolimited.com
+HANWHA LIFE INSURANCE,,"6,322",,17518,,http://www.hanwhalife.com/
+COFACE SA,,"6,331",,1325,,https://www.coface.com/
+"ALIGNMENT HEALTHCARE, INC.",,"6,344",,1167,,https://www.alignmenthealthcare.com/
+SANTAM LTD,,"6,396",,1900,,https://www.santam.co.za/
+WUSTENROT & WURTTEMBERGISCHE AG,,"6,494",,,,https://www.ww-ag.com/en
+BRIGHT HEALTH GROUP INC.,,"6,597",,4029,2056,https://brighthealthcare.com/
+MIGDAL INSURANCE AND FINANCIAL HOLDINGS,,"6,611",,6789,,https://www.migdal.co.il/en
+MOMENTUM METROPOLITAN HOLDINGS,,"6,687",,3466,,https://www.momentummetropolitan.co.za/en
+SUL AMERICA,,"6,729",,3983,,https://portal.sulamericaseguros.com.br/
+LANCASHIRE HOLDINGS,,"6,730",,540,,https://www.lancashiregroup.com/
+CLAL INSURANCE ENTERPRISES HOLDINGS,,"6,748",,4539,,https://www.clalbit.co.il/
+FBL FINANCIAL GROUP,,"6,962",,,1751,http://www.fblfinancial.com
+BROOKFIELD ASSET MANAGEMENT REINSURANCE PARTNERS LTD.,,"6,992",,,,https://bamr.brookfield.com/
+HYUNDAI MARINE & FIRE INSURANCE,,"7,010",,12782,,http://www.hdinsurance.co.jp/english/eng_index.html
+LIBERTY HOLDINGS,,"7,043",,4045,,https://www.libertyholdings.co.za/
+HORACE MANN EDUCATORS CORPORATION,,"7,095",,1251,1450,https://www.horacemann.com/
+ASPEN INSURANCE HOLDINGS,,"7,186",,2730,,https://www.aspen.co/
+MENORA MIVTACHIM HOLDINGS LTD,,"7,386",,2894,,
+"CLOVER HEALTH INVESTMENTS, CORP.",,"7,414",,1471,680,http://cloverhealth.com/
+PALOMAR HOLDINGS,,"7,417",,247,77,https://palomarspecialty.com/
+SOCIETA CATTOLICA DI ASSICURAZIONE - SOCIETA COOPERATIVA,,"7,478",,5900,,https://www.cattolica.it/
+TRISURA GROUP,,"7,484",,152,,https://www.trisura.com/
+"OSCAR HEALTH, INC.",,"7,596",,1920,2621,https://www.hioscar.com/
+AUB GROUP,,"7,636",,232,,https://www.aubgroup.com.au/
+HIPPO,,"7,693",,,,https://www.hippo.com/
+VAUDOISE ASSURANCES HOLDING SA,,"7,730",,1444,,https://www.vaudoise.ch/
+HIPPO HOLDINGS INC.,,"7,754",,91,621,https://www.hippo.com/
+SIRIUSPOINT LTD.,,"7,827",,,,https://www.siriuspt.com/
+PROASSURANCE CORPORATION,,"7,842",,1075,1021,https://www.proassurance.com
+"GRUPO NACIONAL PROVINCIAL, S.A.B.",,"7,897",,,,https://www.gnp.com.mx/
+"SELECTQUOTE, INC.",,"7,983",,937,1356,https://ir.selectquote.com/investor-home/default.aspx
+SAFETY INSURANCE GROUP,,"8,105",,864,552,https://www.safetyinsurance.com/
+ROSGOSSTRAKH INSURANCE COMPANY (PUBLIC JOINT STOCK COMPANY),,"8,319",,,,https://www.rgs.ru/
+THIRD POINT REINSURANCE,,"8,410",,,,https://www.thirdpointre.com
+JUST GROUP PLC,,"8,581",,3957,,https://www.justgroupplc.co.uk/
+PEOPLE CORPORATION,,"8,627",,,,https://www.peoplecorporation.com/
+EMPLOYERS HOLDINGS,,"8,636",,703,608,https://www.employers.com
+PSC INSURANCE GROUP,,"8,878",,151,,https://www.pscinsurancegroup.com.au/
+ODONTOPREV,,"8,899",,335,,https://www.odontoprevonline.com.br/
+JAMES RIVER GROUP HOLDINGS,,"8,997",,669,,http://www.jrgh.net/
+AMERISAFE,,"9,049",,316,393,https://www.amerisafe.com/
+NURNBERGER BETEILIGUNGS-AG,,"9,157",,,,https://www.nuernberger.de/
+PROTECTOR FORSIKRING ASA,,"9,224",,614,,https://www.protectorforsikring.no/
+CONDUIT HOLDINGS LIMITED,,"9,364",,,,https://conduitreinsurance.com/
+WATFORD HOLDINGS,,"9,630",,704,,https://www.watfordre.com/
+"GOHEALTH, INC.",,"9,636",,1062,5448,https://www.gohealth.com/
+GULF INTERNATIONAL SERVICES,,"10,157",,809,,https://www.gis.com.qa/
+PT ASURANSI JIWA SINARMAS MSIG,,"10,171",,,,
+AL RAJHI COMPANY FOR COOPERATIVE INSURANCE,,"10,178",,658,,https://www.alrajhitakaful.com/en
+BANGKOK INSURANCE PUBLIC COMPANY,,"10,192",,537,,https://www.bangkokinsurance.com/
+MERCURIES LIFE INSURANCE,,"10,200",,5649,,http://www.mli.com.tw/
+TONG YANG LIFE INSURANCE,,"10,284",,5033,,https://www.myangel.co.kr/
+TRIPLE-S MANAGEMENT CORPORATION,,"10,335",,,,http://www.triplesmanagement.com/
+TQM CORPORATION PUBLIC COMPANY,,"10,380",,92,,https://www.tqm.co.th/
+HCI GROUP,,"10,395",,402,413,https://www.thehcigroup.com/
+INDEPENDENCE HOLDING COMPANY,,"10,484",,0,,https://www.ihcgroup.com/
+MBIA,,"10,495",,159,87,https://www.mbia.com/
+IRB-BRASIL RESSEGUROS,,"10,575",,915,,https://ir.irbre.com/
+PROSIGHT GLOBAL,,"10,627",,804,351,https://www.prosightspecialty.com/
+KOREAN REINSURANCE COMPANY,,"10,665",,5597,,http://eng.koreanre.co.kr/
+NATIONAL WESTERN LIFE GROUP,,"10,673",,824,,https://www.nationalwesternlife.com/
+QUALICORP CONSULTORIA E CORRETORA DE SEGUROS,,"10,928",,385,,https://www.qualicorp.com.br/
+AMBAC FINANCIAL GROUP,,"11,226",,248,,https://www.ambac.com/
+"ROOT, INC.",,"11,257",,345,172,https://www.rootinc.com/
+ECCLESIASTICAL INSURANCE OFFICE PLC,,"11,273",,,,https://www.ecclesiastical.com/
+MERCURIES & ASSOCIATES HOLDING,,"11,440",,,,http://www.mercuries.com.tw/
+GENWORTH MORTGAGE INSURANCE AUSTRALIA,,"11,454",,302,,https://www.genworth.com.au/
+OKOWORLD AG,,"11,567",,,,https://www.oekoworld.com/en/
+AVIVASA EMEKLILIK VE HAYAT,,"11,738",,,,https://www.avivasa.com.tr/en
+RANDALL & QUILTER INVESTMENT HOLDINGS LTD,,"11,866",,560,,http://www.rqih.com/
+EHEALTH,,"11,899",,583,2379,https://www.ehealthinsurance.com/
+SABRE INSURANCE GROUP,,"11,913",,238,,https://www.sabreplc.co.uk/
+CENTRAL REINSURANCE CORPORATION,,"12,049",,,,http://www.centralre.com/
+UNITED FIRE GROUP,,"12,129",,1056,,https://www.ufginsurance.com/
+FARGLORY LIFE INSURANCE,,"12,274",,,,http://www.fglife.com.tw/
+ALLIANZ AYUDHYA CAPITAL PUBLIC COMPANY,,"12,482",,132,,http://www.ayud.co.th/
+ANICOM HOLDINGS,,"12,618",,413,,https://www.anicom.co.jp/en/
+CHESNARA,,"12,626",,473,,https://www.chesnara.co.uk/
+UNIVERSAL INSURANCE HOLDINGS,,"12,680",,1121,1047,https://universalinsuranceholdings.com
+THAI GROUP HOLDINGS PUBLIC COMPANY,,"12,714",,622,,http://www.segroup.co.th/
+SAGA PLC,,"12,717",,469,,https://www.saga.co.uk/
+SHINKONG INSURANCE,,"12,905",,,,http://www.skinsurance.com.tw/
+I.D.I. INSURANCE COMPANY,,"12,907",,775,,http://www.555.co.il/
+WATERDROP INC.,,"13,165",,,,https://www.waterdrop-inc.com/
+TM,,"13,195",,,,https://www.tm.org/
+QLM LIFE & MEDICAL INSURANCE COMPANY Q.P.S.C.,,"13,379",,,,https://www.qlm.com.qa/
+LIFENET INSURANCE COMPANY,,"13,550",,189,,https://ir.lifenet-seimei.co.jp/en/
+BANVIDA,,"13,566",,0,,https://www.banvida.cl/
+MEDITERRANEAN AND GULF COOPERATIVE INSURANCE AND REINSURANCE COMPANY,,"13,752",,,,https://www.medgulf.com.sa/
+DONEGAL GROUP,,"13,985",,778,410,https://www.donegalgroup.com/
+SJOVA-ALMENNAR TRYGGINGAR HF,,"13,997",,,,https://www.sjova.is/
+QATAR GENERAL INSURANCE & REINSURANCE COMPANY QPSC,,"14,109",,102,,https://www.qgirco.com/
+TIPTREE,,"14,187",,815,,https://www.tiptree.com/
+AXA COOPERATIVE INSURANCE,,"14,223",,,,https://www.axa-cooperative.com/
+MIRAE ASSET LIFE INSURANCE,,"14,243",,2356,,https://life.miraeasset.com/
+ASIA FINANCIAL HOLDINGS LIMITED,,"14,276",,,,https://www.afh.hk/
+HEALTH INSURANCE INNOVATIONS,,"14,326",,,,https://www.hiiq.com/
+"TREAN INSURANCE GROUP, INC.",,"14,379",,132,,https://www.trean.com/
+BIGLARI HOLDINGS,,"14,527",,434,2633,http://www.biglariholdings.com/
+LOTTE NON - LIFE INSURANCE,,"14,549",,2367,,http://www.lotteins.co.kr/
+KANSAS CITY LIFE INSURANCE COMPANY,,"14,615",,509,,https://www.ikclife.com/
+CRAWFORD & COMPANY,,"14,697",,1016,8054,https://www.crawco.com/
+SAUDI RE FOR COOPERATIVE REINSURANCE COMPANY,,"14,726",,,,https://saudire.net/
+ALLIANZ SAUDI FRANSI COOPERATIVE INSURANCE COMPANY,,"14,741",,,,https://www.allianzsf.com/
+FANHUA,,"14,854",,,,http://ir.fanhuaholdings.com
+INVESTORS TITLE COMPANY,,"14,949",,236,,https://www.invtitle.com/
+HANWHA GENERAL INSURANCE,,"15,037",,,,https://www.hanwha.com/en/
+PT PANIN FINANCIAL TBK,,"15,050",,,,http://www.paninfinancial.co.id/
+NI HOLDINGS,,"15,052",,6290,,http://www.niholdingsinc.com/
+INTERNATIONAL GENERAL INSURANCE HOLDINGS LTD.,,"15,171",,,,https://www.iginsure.com/
+PEKIN LIFE INSURANCE COMPANY,,"15,271",,,,https://www.pekininsurance.com/
+CLEARVIEW WEALTH,,"15,293",,,,https://www.clearview.com.au/
+GLOBAL INDEMNITY,,"15,370",,584,360,https://www.globalindemnity.ky/
+ANADOLU HAYAT EMEKLILIK ANONIM SIRKETI,,"15,492",,,,https://www.anadoluhayat.com.tr/
+PROTECTIVE INSURANCE CORPORATION,,"15,519",,,2896,https://www.protectiveinsurance.com/
+UNITED COOPERATIVE ASSURANCE COMPANY,,"15,605",,,,http://www.uca.com.sa/
+IPET INSURANCE,,"15,896",,,,
+INVERSIONES LA CONSTRUCCION,,"16,063",,2018,,http://www.ilcinversiones.cl/
+QATAR ISLAMIC INSURANCE GROUP,,"16,151",,,,http://www.qiic.com.qa/
+MALATH COOPERATIVE INSURANCE COMPANY,,"16,230",,,,https://www.malath.com.sa/
+WALAA COOPERATIVE INSURANCE COMPANY,,"16,244",,,,https://www.walaa.com/
+FBD HOLDINGS,,"16,301",,392,,https://www.fbdgroup.com/
+UNITED OVERSEAS INSURANCE,,"16,494",,36,,https://www.uoi.com.sg/
+VATRYGGINGAFELAG ISLANDS,,"16,556",,,,http://www.vis.is/
+ALJAZIRA TAKAFUL TAAWUNI COMPANY,,"16,751",,,,https://www.ajt.com.sa/
+MIN XIN HOLDINGS,,"16,797",,20,,https://www.minxin.com.hk/
+AGESA HAYAT VE EMEKLILIK A.S.,,"16,838",,,,https://www.agesa.com.tr/
+HEUNGKUK FIRE & MARINE INSURANCE,,"16,901",,,,https://www.heungkukfire.co.kr/
+INSURANCE ACQUISITION,,"16,945",,,,
+ZUR SHAMIR HOLDINGS LTD,,"17,004",,,,http://www.zur-shamir.com/
+THAIVIVAT INSURANCE PUBLIC COMPANY,,"17,011",,,,
+CHUBB ARABIA COOPERATIVE INSURANCE COMPANY,,"17,180",,,,http://www.chubb.com/sa-en
+SUNDANCE STRATEGIES,,"17,311",,0,,http://www.sundancestrategies.com/
+ARABIA INSURANCE COOPERATIVE COMPANY,,"17,330",,,,http://www.aicc.com.sa/
+ARABIAN SHIELD COOPERATIVE INSURANCE COMPANY,,"17,363",,,,http://www.der3.com/
+TAIWAN FIRE & MARINE INSURANCE,,"17,375",,,,http://www.tfmi.com.tw/
+CITIZENS,,"17,503",,6905,,https://www.citizensinc.com/
+GREENLIGHT CAPITAL RE,,"17,532",,,,https://greenlightre.com/
+DOHA INSURANCE GROUP,,"17,599",,,,http://www.dig.qa/
+"METROMILE, INC.",,"17,687",,,,https://www.metromile.com/
+AL ALAMIYA FOR COOPERATIVE INSURANCE COMPANY,,"17,712",,,,
+AL KHALEEJ TAKAFUL INSURANCE COMPANY,,"17,723",,,,http://www.alkhaleejtakaful.com/
+SABB TAKAFUL COMPANY,,"17,736",,,,https://www.sabbtakaful.com/
+ALINMA TOKIO MARINE COMPANY,,"17,738",,,,http://www.atmc.com.sa/
+MUANG THAI INSURANCE PUBLIC COMPANY,,"17,897",,,,https://www.muangthai.co.th/en
+SBI INSURANCE GROUP,,"17,947",,,,https://www.sbilife.co.in/
+ANADOLU ANONIM TURK SIGORTA SIRKETI,,"18,160",,,,https://www.anadolusigorta.com.tr/
+CLIENTELE,,"18,270",,,,https://clientele.co.za/
+HALK SIGORTA,,"18,356",,,,
+MPHB CAPITAL BERHAD,,"18,450",,,,http://www.mphbcap.com.my/
+WATANIYA INSURANCE COMPANY,,"18,687",,,,https://www.wataniya.com.sa/
+AL-ETIHAD COOPERATIVE INSURANCE,,"18,700",,,,https://www.tuci-sa.com/
+METLIFE AMERICAN INTERNATIONAL GROUP AND ARAB NATIONAL BANK COOPERATIVE INSURANCE COMPANY,,"18,748",,,,
+TOWER LIMITED,,"18,824",,,,https://www.tower.co.nz/
+ADVANCE CREATE,,"18,844",,,,https://www.advancecreate.co.jp/
+WIZ SOLUCOES E CORRETAGEM DE SEGUROS,,"18,928",,,,http://www.wizsolucoes.com.br/
+NFC HOLDINGS,,"18,948",,259,,https://www.newton-fc.com/
+AKSIGORTA,,"18,950",,,,https://www.aksigorta.com.tr/
+"IPET HOLDINGS,INC.",,"19,010",,,,https://www.ipet-hd.com/
+PT ASURANSI TUGU PRATAMA INDONESIA TBK,,"19,043",,,,https://tugu.com/
+PT PANINVEST TBK,,"19,044",,,,https://www.paninvest.co.id/
+AL SAGR COOPERATIVE INSURANCE,,"19,117",,,,http://alsagr.com/
+BURUJ COOPERATIVE INSURANCE COMPANY,,"19,227",,,,
+GWG HOLDINGS,,"19,253",,92,,https://gwgh.com/
+UNITED INSURANCE HOLDINGS,,"19,413",,847,,https://www.upcinsurance.com/
+HERITAGE INSURANCE HOLDINGS,,"19,599",,593,,https://www.heritagepci.com/
+DFV DEUTSCHE FAMILIENVERSICHERUNG AG,,"19,830",,74,,https://www.deutsche-familienversicherung.de/
+APLUS ASSET ADVISOR CO. LTD,,"19,884",,,,
+SAUDI ARABIAN COOPERATIVE INSURANCE COMPANY,,"19,927",,,,http://www.saico.com.sa/
+TRUSTCO GROUP HOLDINGS,,"19,982",,98,,http://www.tgh.na/
+RHEINLAND HOLDING AG,,"19,986",,,,https://www.rheinland-versicherungsgruppe.de/
+HELIOS UNDERWRITING PLC,,"20,066",,,,https://www.huwplc.com/
+GULF GENERAL COOPERATIVE INSURANCE COMPANY,,"20,101",,,,http://www.ggi-sa.com/
+RAY SIGORTA ANONIM SIRKETI,,"20,204",,,,https://www.raysigorta.com.tr/
+THAI REINSURANCE PUBLIC COMPANY,,"20,221",,,,https://www.thaire.co.th/
+PT MASKAPAI REASURANSI INDONESIA TBK,,"20,264",,,,
+UNION INSURANCE,,"20,330",,,,http://www.wwunion.com/
+FIRST INSURANCE,,"20,385",,,,http://www.firstins.com.tw/
+AYALON HOLDINGS LTD,,"20,408",,,,http://www.ayalon-ins.co.il/
+PT ASURANSI KRESNA MITRA TBK,,"20,439",,,,http://www.kresnainsurance.com/
+ALAHLI TAKAFUL COMPANY,,"20,525",,,,https://alahlitakaful.com/
+GAINSCO,,"20,778",,,,
+ISBIR HOLDING,,"20,806",,,,http://www.isbir.com.tr/
+NOBLEOAK LIFE LIMITED,,"21,001",,,,https://www.nobleoak.com.au/
+PERSONAL GROUP HOLDINGS PLC,,"21,106",,,,https://www.personalgroup.com/
+BLUE CAPITAL REINSURANCE HOLDINGS,,"21,130",,,,
+PT EQUITY DEVELOPMENT INVESTMENT TBK,,"21,142",,,,http://www.theequityone.com/
+AMANA COOPERATIVE INSURANCE COMPANY,,"21,263",,,,https://amana.sa/
+SYN MUN KONG INSURANCE PUBLIC COMPANY,,"21,266",,,,http://www.smk.co.th/
+SAUDI ENAYA COOPERATIVE INSURANCE COMPANY,,"21,270",,,,http://saudienaya.com/
+ALLIED COOPERATIVE INSURANCE GROUP,,"21,282",,,,https://www.acig.com.sa/en
+MAIDEN HOLDINGS,,"21,327",,,,http://www.maiden.bm/
+NET INSURANCE,,"21,442",,,,http://www.netinsurance.it/
+WATCHSTONE GROUP,,"21,640",,,,
+SALAMA COOPERATIVE INSURANCE COMPANY,,"21,711",,,,http://www.salama.com.sa/
+ASSITECA,,"22,033",,,,http://www.assiteca.it/
+P.T. ASURANSI MULTI ARTHA GUNA TBK,,"22,045",,,,http://www.mag.co.id/
+TQR PUBLIC COMPANY LIMITED,,"22,367",,,,
+CIG PANNONIA ELETBIZTOSITO NYRT,,"22,546",,,,https://www.cigpannonia.hu/en
+VERICITY,,"22,740",,148,,https://www.vericity.com/
+GULF UNION COOPERATIVE INSURANCE,,"22,833",,,,https://gulfunion.com.sa/
+HANSARD GLOBAL PLC,,"23,318",,,,https://www.hansard.com/
+EMERGENT CAPITAL,,"23,325",,,,
+EMPIRE LIFE INSURANCE COMPANY,,"23,343",,,,
+WESURE GLOBAL TECH LTD,,"23,383",,,,
+UTG,,"23,834",,,,https://leapers.com/
+ALPER CONSULTORIA E CORRETORA DE SEGUROS,,"23,918",,,,https://www.alperseguros.com.br/
+ASPEN (GROUP) HOLDINGS,,"24,074",,,,https://aspen.com.my/
+AMERICAN OVERSEAS GROUP,,"24,120",,,,
+HEALTHCONN,,"24,239",,,,https://www.healthconn.com/
+FIRST ACCEPTANCE CORPORATION,,"24,279",,,,http://www.acceptanceinsurance.com/
+HALLMARK FINANCIAL SERVICES,,"24,491",,,,https://www.hallmarkgrp.com/
+THAIRE LIFE ASSURANCE PUBLIC COMPANY,,"24,554",,,,http://www.thairelife.co.th/
+GREENBROOK TMS,,"24,642",,,,https://www.greenbrooktms.com/
+HUIZE HOLDING LTD,,"24,653",,,,https://ir.huize.com/
+MIDWEST HOLDING,,"24,654",,11,,https://www.midwestholding.com/
+IRRC CORPORATION,,"24,941",,,,http://www.irrc.co.jp/
+RELIANCE GLOBAL GROUP,,"25,415",,,,
+ATLANTIC AMERICAN CORPORATION,,"25,575",,,,http://www.atlam.com/
+KINGSTONE COMPANIES,,"25,588",,,,http://www.kingstonecompanies.com/
+LIFE INSURANCE COMPANY OF ALABAMA,,"25,627",,,,
+ICC HOLDINGS,,"26,057",,,,
+PT LIPPO GENERAL INSURANCE TBK,,"26,233",,,,
+PACIFIC & ORIENT BHD,,"26,905",,,,
+THE NAVAKIJ INSURANCE PUBLIC COMPANY LIMITED,,"26,978",,,,
+TARGET INSURANCE (HOLDINGS),,"27,414",,,,http://www.targetinsholdings.com/
+ATLAS FINANCIAL HOLDINGS,,"27,468",,,,
+TAIMING ASSURANCE BROKER,,"27,928",,,,
+HORAI,,"28,072",,,,
+NAM SENG INSURANCE PUBLIC COMPANY,,"28,149",,,,
+GOLDEN INSURANCE BROKERS,,"28,345",,,,
+CONDUIT CAPITAL,,"28,521",,,,
+HEALTH ITALIA,,"28,751",,,,
+FEDNAT HOLDING COMPANY,,"28,891",,,,https://www.fednat.com/
+"BROAD-MINDED CO.,LTD.",,"28,908",,,,
+ICPEI HOLDINGS INC.,,"29,212",,,,
+FINTECH S.A.,,"29,711",,,,
+SYNCORA HOLDINGS,,"29,860",,,,
+SAUDI INDIAN COMPANY FOR COOPERATIVE INSURANCE WAFA INSURANCE,,"29,903",,,,
+MARKETING ALLIANCE,,"29,987",,,,
+INDUSTRIAL INVESTMENT TRUST,,"30,107",,,,
+THAI SETAKIJ INSURANCE PUBLIC COMPANY,,"30,130",,,,
+OXBRIDGE RE HOLDINGS,,"30,147",,,,
+BANGKOK UNION INSURANCE PUBLIC COMPANY LIMITED,,"30,218",,,,
+TIAN RUIXIANG HOLDINGS LTD,,"30,341",,,,http://www.tianrx.com/
+CONIFER HOLDINGS,,"30,420",,,,
+NATIONAL SECURITY GROUP,,"30,773",,,,
+"FG FINANCIAL GROUP, INC.",,"30,789",,,,
+UNICO AMERICAN CORPORATION,,"31,136",,,,
+ASN BROKER PUBLIC COMPANY,,"31,337",,,,
+NEXGENRX INC.,,"31,458",,,,
+CASH.LIFE AG,,"31,887",,,,
+"QUAD M SOLUTIONS, INC.",,"31,914",,,,
+PT MALACCA TRUST WUWUNGAN INSURANCE TBK,,"32,175",,,,
+PT ASURANSI HARTA AMAN PRATAMA TBK,,"32,241",,,,
+PT VICTORIA INSURANCE TBK,,"32,264",,,,
+"HEALTH REVENUE ASSURANCE HOLDINGS, INC.",,"32,425",,,,
+TILL CAPITAL CORPORATION,,"32,746",,,,
+ENSURANCE,,"32,940",,,,
+PT ASURANSI JIWA SYARIAH JASA MITRA ABADI TBK,,"33,157",,,,
+PACIFIC HEALTH CARE ORGANIZATION,,"33,253",,,,
+PT ASURANSI DAYIN MITRA TBK,,"33,340",,,,
+PT ASURANSI JASA TANIA TBK,,"34,353",,,,
+ASHLER ET MANSON SA,,"34,421",,,,
+PT ASURANSI BINTANG TBK,,"34,444",,,,
+INSR INSURANCE GROUP ASA,,"34,803",,,,
+"ATLAS FINANCIAL HOLDINGS, INC.",,"34,955",,,,
+NOVUS ACQUISITION & DEVELOPMENT,,"36,479",,,,
+RSA INSURANCE GROUP,,"36,846",FTSE 100,9521,12378,https://www.rsagroup.com/
+CHINA LIFE INSURANCE,,"36,912",,120740,,https://www.chinalife.com.hk/
+LPI CAPITAL BHD,,"37,065",,,,https://www.lpicapital.com/
+SAGICOR FINANCIAL COMPANY LTD.,,"37,118",,,,https://www.sagicor.com/
+DHIPAYA INSURANCE PUBLIC COMPANY,,"37,184",,,,https://www.dhipaya.co.th/
+SOLIDARITY SAUDI TAKAFUL COMPANY,,"37,671",,,,http://www.sstc.com.sa/
+KING WAI GROUP (THAILAND) PUBLIC COMPANY,,"37,740",,,,https://www.kwgthai.com/
+MAA GROUP BERHAD,,"37,896",,,,
+ASKO-STRAKHOVANIE,,"37,961",,,,
+KIRIN GROUP HOLDINGS,,"38,387",,,,
+SCOTTISH RE GROUP,,"38,637",,,,
+EUROPEJSKIE CENTRUM ODSZKODOWAN S.A.,,"38,829",,,,
+TRIAD GUARANTY,,"39,546",,,,
+STATE FARM,,"39,680",,81730,59000,https://www.statefarm.com/
