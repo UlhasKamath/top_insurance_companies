@@ -2,4 +2,4 @@
 
 using beautifulSoup, requests
 
-scraping insurance companies
+scraping the top insurance companies
