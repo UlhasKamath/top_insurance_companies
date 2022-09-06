@@ -2,4 +2,4 @@
 
 using beautifulSoup, requests
 
-scraping insurance companies using python
+scraping insurance companies
